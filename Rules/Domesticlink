@@ -139,6 +139,13 @@ host-suffix, ipv6-test.com, Domesticlink
 host-suffix, test-ipv6.com, Domesticlink
 host-suffix, whatismyip.com, Domesticlink
 
+#快手
+host-suffix,ksapisrv.com, Domesticlink
+host-suffix,gifshow.com, Domesticlink
+host-suffix,ksapisrv.com, Domesticlink
+host-suffix,kuaishou,com, Domesticlink
+host-suffix,a.yximgs.com, Domesticlink
+
 
 #其它类网站
 host-suffix,12306.cn,Domesticlink
