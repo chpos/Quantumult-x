@@ -1,0 +1,11 @@
+# > Youtube Music
+USER-AGENT,*YouTubeMusic*,Youtube
+USER-AGENT,*com.google.ios.youtubemusic*,Youtube
+
+# > Youtube
+USER-AGENT,*youtube*,Youtube
+USER-AGENT,YouTube*,Youtube
+DOMAIN-KEYWORD,youtube,Youtube
+DOMAIN-SUFFIX,googlevideo.com,Youtube
+DOMAIN-SUFFIX,gvt2.com,Youtube
+DOMAIN-SUFFIX,youtu.be,Youtube
