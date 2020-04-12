@@ -1,0 +1,399 @@
+# > Google
+host-keyword,mtalk.google.com,Domesticlink
+host,safebrowsing.googleapis.com,Domesticlink
+host-suffix,dl.google.com,Domesticlink
+
+
+# > HunanTV
+host-suffix, hitv.com, Domesticlink
+host-suffix, mgtv.com, Domesticlink
+
+
+# > Beplay
+host-keyword,beplay,Domesticlink
+
+# > Blizzard
+# - USER-AGENT,hearthstone*,Domesticlink
+host,cdp.cloud.unity3d.com,Domesticlink
+host-suffix,battle.net,Domesticlink
+host-suffix,battlenet.com,Domesticlink
+host-suffix,blizzard.com,Domesticlink
+
+# > Prior
+host,client.amplifi.com,Domesticlink
+host,ip.bjango.com,Domesticlink
+host-suffix,alphassl.com,Domesticlink
+host-suffix,edu.cn,Domesticlink
+
+# > TeamViewer
+IP-CIDR,185.188.32.0/24,Domesticlink
+IP-CIDR,185.188.33.0/24,Domesticlink
+IP-CIDR,185.188.34.0/24,Domesticlink
+IP-CIDR,185.188.35.0/24,Domesticlink
+IP-CIDR6,2a0b:b580::/48,Domesticlink
+IP-CIDR6,2a0b:b581::/48,Domesticlink
+IP-CIDR6,2a0b:b582::/48,Domesticlink
+IP-CIDR6,2a0b:b583::/48,Domesticlink
+
+
+# > CCTV
+host-suffix, cctv.com, Domesticlink
+host-suffix, cctvpic.com, Domesticlink
+host-suffix, livechina.com, Domesticlink
+
+
+# > 蛋蛋赞
+host-suffix, 343480.com, Domesticlink
+host-suffix, baduziyuan.com, Domesticlink
+host-suffix, com-hs-hkdy.com, Domesticlink
+host-suffix, czybjz.com, Domesticlink
+host-suffix, dandanzan.com, Domesticlink
+host-suffix, fjhps.com, Domesticlink
+host-suffix, kuyunbo.club, Domesticlink
+
+
+# > Meitu
+host-suffix, meitu.com, Domesticlink
+host-suffix, meitudata.com, Domesticlink
+host-suffix, meitustat.com, Domesticlink
+host-suffix, meipai.com, Domesticlink
+
+
+# > NetEase
+user-agent, NeteaseMusic*, Domesticlink
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, Domesticlink
+host-suffix, 163.com, Domesticlink
+host-suffix, 126.net, Domesticlink
+host-suffix, 127.net, Domesticlink
+host-suffix, 163yun.com, Domesticlink
+host-suffix, lofter.com, Domesticlink
+host-suffix, netease.com, Domesticlink
+host-suffix, ydstatic.com, Domesticlink
+
+
+# > Steam
+USER-AGENT,Steam*,Domesticlink
+host-suffix,steamcontent.com,Domesticlink
+
+
+# > Windows
+host-suffix,windows.com,Domesticlink
+host-suffix,windows.net,Domesticlink
+host-suffix,windowsupdate.com,Domesticlink
+
+
+# > Xunlei
+USER-AGENT,%E8%BF%85%E9%9B%B7,Domesticlink
+host-suffix,xunlei.com,Domesticlink
+
+
+# > Private Tracker
+host-suffix,awesome-hd.me,Domesticlink
+host-suffix,broadcasthe.net,Domesticlink
+host-suffix,chdbits.co,Domesticlink
+host-suffix,classix-unlimited.co.uk,Domesticlink
+host-suffix,empornium.me,Domesticlink
+host-suffix,gazellegames.net,Domesticlink
+host-suffix,hdchina.org,Domesticlink
+host-suffix,hdsky.me,Domesticlink
+host-suffix,icetorrent.org,Domesticlink
+host-suffix,jpopsuki.eu,Domesticlink
+host-suffix,keepfrds.com,Domesticlink
+host-suffix,madsrevolution.net,Domesticlink
+host-suffix,m-team.cc,Domesticlink
+host-suffix,nanyangpt.com,Domesticlink
+host-suffix,ncore.cc,Domesticlink
+host-suffix,open.cd,Domesticlink
+host-suffix,ourbits.club,Domesticlink
+host-suffix,passthepopcorn.me,Domesticlink
+host-suffix,privatehd.to,Domesticlink
+host-suffix,redacted.ch,Domesticlink
+host-suffix,springsunday.net,Domesticlink
+host-suffix,tjupt.org,Domesticlink
+host-suffix,totheglory.im,Domesticlink
+
+
+# > Accelerate direct sites
+host-keyword,announce,Domesticlink
+host-keyword,torrent,Domesticlink
+host-keyword,tracker,Domesticlink
+
+
+# > Tencent
+user-agent, MicroMessenger%20Client, Domesticlink
+user-agent, WeChat*, Domesticlink
+user-agent, %E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*, Domesticlink
+host-suffix, gtimg.com, Domesticlink
+host-suffix, idqqimg.com, Domesticlink
+host-suffix, igamecj.com, Domesticlink
+host-suffix, myapp.com, Domesticlink
+host-suffix, myqcloud.com, Domesticlink
+host-suffix, qq.com, Domesticlink
+host-suffix, servicewechat.com, Domesticlink
+host-suffix, tencent.com, Domesticlink
+host-suffix, tencent-cloud.net, Domesticlink
+host-suffix, tenpay.com, Domesticlink
+host, file-igamecj.akamaized.net, Domesticlink
+
+
+# > IP Query
+host-suffix, ipip.net, Domesticlink
+host-suffix, ip.la, Domesticlink
+host-suffix, ip-cdn.com, Domesticlink
+host-suffix, ipv6-test.com, Domesticlink
+host-suffix, test-ipv6.com, Domesticlink
+host-suffix, whatismyip.com, Domesticlink
+
+
+#其它类网站
+host-suffix,12306.cn,Domesticlink
+host-suffix,12306.com,Domesticlink
+host-suffix,126.net,Domesticlink
+host-suffix,163.com,Domesticlink
+host-suffix,360.cn,Domesticlink
+host-suffix,360.com,Domesticlink
+host-suffix,360buy.com,Domesticlink
+host-suffix,360buyimg.com,Domesticlink
+host-suffix, jdpay.com, Domesticlink
+host-suffix,36kr.com,Domesticlink
+host-suffix,51ym.me,Domesticlink
+host-suffix,58.com,Domesticlink
+host-suffix,8686c.com,Domesticlink
+host-suffix,abercrombie.com,Domesticlink
+host-suffix,acfun.tv,Domesticlink
+host-suffix,adobesc.com,Domesticlink
+host-suffix,air-matters.com,Domesticlink
+host-suffix,air-matters.io,Domesticlink
+host-suffix,aixifan.com,Domesticlink
+host-suffix,akadns.net,Domesticlink
+host-suffix,alibabacloud.com,Domesticlink
+host-suffix,alicdn.com,Domesticlink
+host-suffix,alipay.com,Domesticlink
+host-suffix,alipayobjects.com,Domesticlink
+host-suffix,aliyun.com,Domesticlink
+host-suffix,aliyuncs.com,Domesticlink
+host-suffix,amap.com,Domesticlink
+host-suffix,apache.org,Domesticlink
+host-suffix,api.crisp.chat,Domesticlink
+host-suffix,appshike.com,Domesticlink
+host-suffix,appstore.com,Domesticlink
+host-suffix,autonavi.com,Domesticlink
+host-suffix,aweme.snssdk.com,Domesticlink
+host-suffix,bababian.com,Domesticlink
+host-suffix,baidu.com,Domesticlink
+host-suffix,baidupcs.com,Domesticlink
+host-suffix,battle.net,Domesticlink
+host-suffix,bdimg.com,Domesticlink
+host-suffix,bdstatic.com,Domesticlink
+host-suffix,beatsbydre.com,Domesticlink
+host-suffix,bet365.com,Domesticlink
+host-suffix,broadcasthe.net,Domesticlink
+host-suffix,caiyunapp.com,Domesticlink
+host-suffix,ccgslb.com,Domesticlink
+host-suffix,ccgslb.net,Domesticlink
+host-suffix,chinacache.net,Domesticlink
+host-suffix,chunbo.com,Domesticlink
+host-suffix,chunboimg.com,Domesticlink
+host-suffix,clashroyaleapp.com,Domesticlink
+host-suffix,clouddn.com,Domesticlink
+host-suffix,cloudsigma.com,Domesticlink
+host-suffix,cloudxns.net,Domesticlink
+host-suffix,cmct.tv,Domesticlink
+host-suffix,cmfu.com,Domesticlink
+host-suffix,cnbeta.com,Domesticlink
+host-suffix,cnbetacdn.com,Domesticlink
+host-suffix,chdbits.co,Domesticlink
+host-suffix,cnlang.org,Domesticlink
+host-suffix,culturedcode.com,Domesticlink
+host-suffix,dct-cloud.com,Domesticlink
+host-suffix,didialift.com,Domesticlink
+host-suffix,digicert.com,Domesticlink
+host-suffix,douban.com,Domesticlink
+host-suffix,doubanio.com,Domesticlink
+host-suffix,douyin.com,Domesticlink
+host-suffix,douyu.com,Domesticlink
+host-suffix,douyu.tv,Domesticlink
+host-suffix,douyutv.com,Domesticlink
+host-suffix,duokan.com,Domesticlink
+host-suffix,duoshuo.com,Domesticlink
+host-suffix,dytt8.net,Domesticlink
+host-suffix,easou.com,Domesticlink
+host-suffix,ecitic.com,Domesticlink
+host-suffix,ecitic.net,Domesticlink
+host-suffix,eclipse.org,Domesticlink
+host-suffix,eudic.net,Domesticlink
+host-suffix,ewqcxz.com,Domesticlink
+host-suffix,feng.com,Domesticlink
+host-suffix,fir.im,Domesticlink
+host-suffix,firefox.com,Domesticlink
+host-suffix,frdic.com,Domesticlink
+host-suffix,fresh-ideas.cc,Domesticlink
+host-suffix,gameloft.com,Domesticlink
+host-suffix,geetest.com,Domesticlink
+host-suffix,godic.net,Domesticlink
+host-suffix,goodread.com,Domesticlink
+host-suffix,google.cn,Domesticlink
+host-suffix,gtimg.com,Domesticlink
+host-suffix,haibian.com,Domesticlink
+host-suffix,hao123.com,Domesticlink
+host-suffix,haosou.com,Domesticlink
+host-suffix,hdchina.org,Domesticlink
+host-suffix,hdcmct.org,Domesticlink
+host-suffix,hkserversolution.com,Domesticlink
+host-suffix,hollisterco.com,Domesticlink
+host-suffix,hongxiu.com,Domesticlink
+host-suffix,hxcdn.net,Domesticlink
+host-suffix,icedropper.com,Domesticlink
+host-suffix,iciba.com,Domesticlink
+host-suffix,ifeng.com,Domesticlink
+host-suffix,ifengimg.com,Domesticlink
+host-suffix,images-amazon.com,Domesticlink
+host-suffix,img4me.com,Domesticlink
+host-suffix,ithome.com,Domesticlink
+host-suffix,ixdzs.com,Domesticlink
+host-suffix,jd.com,Domesticlink
+host-suffix,jd.hk,Domesticlink
+host-suffix,jianshu.com,Domesticlink
+host-suffix,jianshu.io,Domesticlink
+host-suffix,jianshuapi.com,Domesticlink
+host-suffix,jiathis.com,Domesticlink
+host-suffix,jomodns.com,Domesticlink
+host-suffix,jsboxbbs.com,Domesticlink
+host-suffix,knewone.com,Domesticlink
+host-suffix,kuaidi100.com,Domesticlink
+host-suffix,kugou.com,Domesticlink
+host-suffix,lecloud.com,Domesticlink
+host-suffix,lemicp.com,Domesticlink
+host-suffix,letv.com,Domesticlink
+host-suffix,letvcloud.com,Domesticlink
+host-suffix,lizhi.io,Domesticlink
+host-suffix,localizecdn.com,Domesticlink
+host-suffix,lucifr.com,Domesticlink
+host-suffix,luoo.net,Domesticlink
+host-suffix,lxdns.com,Domesticlink
+host-suffix,mai.tn,Domesticlink
+host-suffix,meizu.com,Domesticlink
+host-suffix,mi.com,Domesticlink
+host-suffix,miaopai.com,Domesticlink
+host-suffix,miui.com,Domesticlink
+host-suffix,miwifi.com,Domesticlink
+host-suffix,mob.com,Domesticlink
+host-suffix,moji.com,Domesticlink
+host-suffix,moke.com,Domesticlink
+host-suffix,mxhichina.com,Domesticlink
+host-suffix,myqcloud.com,Domesticlink
+host-suffix,myunlu.com,Domesticlink
+host-suffix,ngabbs.com,Domesticlink
+host-suffix,netease.com,Domesticlink
+host-suffix,nfoservers.com,Domesticlink
+host-suffix,nssurge.com,Domesticlink
+host-suffix,nuomi.com,Domesticlink
+host-suffix,ourbits.club,Domesticlink
+host-suffix,ourdvs.com,Domesticlink
+host-suffix,passthepopcorn.me,Domesticlink
+host-suffix,pgyer.com,Domesticlink
+host-suffix,pniao.com,Domesticlink
+host-suffix,privatehd.to,Domesticlink
+host-suffix,pstatp.com,Domesticlink
+host-suffix,qbox.me,Domesticlink
+host-suffix,qcloud.com,Domesticlink
+host-suffix,qdaily.com,Domesticlink
+host-suffix,qdmm.com,Domesticlink
+host-suffix,qhimg.com,Domesticlink
+host-suffix, qhres.com,Domesticlink
+host-suffix,qidian.com,Domesticlink
+host-suffix,qihucdn.com,Domesticlink
+host-suffix,qin.io,Domesticlink
+host-suffix,qingmang.me,Domesticlink
+host-suffix,qingmang.mobi,Domesticlink
+host-suffix,qiniucdn.com,Domesticlink
+host-suffix,qiniudn.com,Domesticlink
+host-suffix,qq.com,Domesticlink
+host-suffix,qqurl.com,Domesticlink
+host-suffix,rarbg.to,Domesticlink
+host-suffix,redacted.ch,Domesticlink
+host-suffix,rrmj.tv,Domesticlink
+host-suffix,ruguoapp.com,Domesticlink
+host-suffix,sandai.net,Domesticlink
+host-suffix,sf-express.com,Domesticlink
+host-suffix,sinaapp.com,Domesticlink
+host-suffix,sinaimg.cn,Domesticlink
+host-suffix,sinaimg.com,Domesticlink
+host-suffix,sm.ms,Domesticlink
+host-suffix,smzdm.com,Domesticlink
+host-suffix,snssdk.com,Domesticlink
+host-suffix,snwx.com,Domesticlink
+host-suffix,so.com,Domesticlink
+host-suffix,sogou.com,Domesticlink
+host-suffix,sogoucdn.com,Domesticlink
+host-suffix,sohu.com,Domesticlink
+host-suffix,soku.com,Domesticlink
+host-suffix,soso.com,Domesticlink
+host-suffix,sspai.com,Domesticlink
+host-suffix,startssl.com,Domesticlink
+host-suffix,store.steampowered.com,Domesticlink
+host-suffix,suning.com,Domesticlink
+host-suffix,symcd.com,Domesticlink
+host-suffix,taobao.com,Domesticlink
+host-suffix,tawk.link,Domesticlink
+host-suffix,tawk.to,Domesticlink
+host-suffix,teamviewer.com,Domesticlink
+host-suffix,tenpay.com,Domesticlink
+host-suffix,tietuku.com,Domesticlink
+host-suffix,tmall.com,Domesticlink
+host-suffix,tmzvps.com,Domesticlink
+host-suffix,trello.com,Domesticlink
+host-suffix,trellocdn.com,Domesticlink
+host-suffix,totheglory.im,Domesticlink
+host-suffix,ttmeiju.com,Domesticlink
+host-suffix,tudou.com,Domesticlink
+host-suffix,udache.com,Domesticlink
+host-suffix,umengcloud.com,Domesticlink
+host-suffix,upaiyun.com,Domesticlink
+host-suffix,upyun.com,Domesticlink
+host-suffix,uxengine.net,Domesticlink
+host-suffix,wandoujia.com,Domesticlink
+host-suffix,weather.bjango.com,Domesticlink
+host-suffix,weather.com,Domesticlink
+host-suffix,webqxs.com,Domesticlink
+host-suffix,weibo.cn,Domesticlink
+host-suffix,weibo.com,Domesticlink
+host-suffix,weico.cc,Domesticlink
+host-suffix,weiphone.com,Domesticlink
+host-suffix,weiphone.net,Domesticlink
+host-suffix,wenku8.net,Domesticlink
+host-suffix,werewolf.53site.com,Domesticlink
+host-suffix,windowsupdate.com,Domesticlink
+host-suffix,wkcdn.com,Domesticlink
+host-suffix,workflowy.com,Domesticlink
+host-suffix,xdrig.com,Domesticlink
+host-suffix,xhostfire.com,Domesticlink
+host-suffix,xiami.com,Domesticlink
+host-suffix,xiami.net,Domesticlink
+host-suffix,xiaojukeji.com,Domesticlink
+host-suffix,xiaomi.com,Domesticlink
+host-suffix,xiaomi.net,Domesticlink
+host-suffix,xiaomicp.com,Domesticlink
+host-suffix,ximalaya.com,Domesticlink
+host-suffix,xitek.com,Domesticlink
+host-suffix,xmcdn.com,Domesticlink
+host-suffix,xslb.net,Domesticlink
+host-suffix,yach.me,Domesticlink
+host-suffix,yeepay.com,Domesticlink
+host-suffix,yhd.com,Domesticlink
+host-suffix,yinxiang.com,Domesticlink
+host-suffix,yixia.com,Domesticlink
+host-suffix,ykimg.com,Domesticlink
+host-suffix,youdao.com,Domesticlink
+host-suffix,youku.com,Domesticlink
+host-suffix,yunjiasu-cdn.net,Domesticlink
+host-suffix,zealer.com,Domesticlink
+host-suffix,zgslb.net,Domesticlink
+host-suffix,zhihu.com,Domesticlink
+host-suffix,zhimg.com,Domesticlink
+host-suffix,zimuzu.tv,Domesticlink
+host-suffix,zmz002.com,Domesticlink
+IP-CIDR,1.255.62.0/24,Domesticlink
+
+# > CN
+host-suffix,cn,Domesticlink
