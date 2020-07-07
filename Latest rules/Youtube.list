@@ -1,0 +1,9 @@
+# > Youtube
+# - USER-AGENT,*youtube*,Youtube
+# - USER-AGENT,YouTube*,Youtube
+host-keyword,youtube,Youtube
+host,yt3.ggpht.com,Youtube
+host-suffix,googlevideo.com,Youtube
+host-suffix,gvt2.com,Youtube
+host-suffix,youtu.be,Youtube
+host-suffix,ytimg.com,Youtube
