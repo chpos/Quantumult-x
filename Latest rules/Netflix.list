@@ -879,3 +879,5 @@ ip-cidr,96.23.20.70/32,Netflix
 ip-cidr,96.23.20.74/32,Netflix
 ip-cidr,96.23.20.78/32,Netflix
 ip-cidr,96.4.63.99/32,Netflix
+# > Fast
+host-suffix,fast.com,Netflix
