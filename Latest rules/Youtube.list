@@ -7,3 +7,6 @@ host-suffix,googlevideo.com,Youtube
 host-suffix,gvt2.com,Youtube
 host-suffix,youtu.be,Youtube
 host-suffix,ytimg.com,Youtube
+# > Youtube Music
+user-age,*YouTubeMusic*,Youtube
+user-age,*com.google.ios.youtubemusic*,Youtube
