@@ -615,7 +615,7 @@ host-suffix,zeutch.com,Proxy
 host-suffix,zynamics.com,Proxy
 
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
-# - USER-AGENT,WhatsApp*,Proxy
+user-age,WhatsApp*,Proxy
 
 host-keyword,Appledaily,Proxy
 host-keyword,beetalk,Proxy
