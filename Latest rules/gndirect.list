@@ -2,7 +2,6 @@
 host-suffix,dler.cloud,DIRECT
 
 # > Google
-host-keyword,mtalk.google.com,DIRECT
 host,safebrowsing.googleapis.com,DIRECT
 host-suffix,dl.google.com,DIRECT
 
