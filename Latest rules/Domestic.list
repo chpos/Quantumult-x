@@ -2,7 +2,7 @@
 host-keyword,beplay,Domestic
 
 # > Blizzard
-user-age,hearthstone*,Domestic
+user-agent,hearthstone*,Domestic
 host,cdp.cloud.unity3d.com,Domestic
 host-suffix,battle.net,Domestic
 host-suffix,battlenet.com,Domestic
