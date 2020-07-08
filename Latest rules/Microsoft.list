@@ -1,5 +1,5 @@
 # > Microsoft
-user-age,OneDrive*,Microsoft
+user-agent,OneDrive*,Microsoft
 host-keyword,onedrive,Microsoft
 host-suffix,azure.com,Microsoft
 host-suffix,fabric.io,Microsoft
