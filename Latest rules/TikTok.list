@@ -1,5 +1,5 @@
 # > TikTok
-user-age,TikTok*,TikTok
+user-agent,TikTok*,TikTok
 host-suffix,muscdn.com,TikTok
 host-suffix,musical.ly,TikTok
 host-suffix,tiktokv.com,TikTok
