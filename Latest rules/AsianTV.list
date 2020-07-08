@@ -1,0 +1,36 @@
+# > Bilibili
+user-age,bili*,AsianTV
+user-age,Bilibili*,AsianTV
+host-suffix,acg.tv,AsianTV
+host-suffix,acgvideo.com,AsianTV
+host-suffix,b23.tv,AsianTV
+host-suffix,biliapi.com,AsianTV
+host-suffix,biliapi.net,AsianTV
+host-suffix,bilibili.com,AsianTV
+host-suffix,biligame.com,AsianTV
+host-suffix,biligame.net,AsianTV
+host-suffix,bilivideo.com,AsianTV
+host-suffix,hdslb.com,AsianTV
+host-suffix,im9.com,AsianTV
+host-suffix,smtcdns.net,AsianTV
+
+# > IQIYI
+host-keyword,qiyi,AsianTV
+host-suffix,qy.net,AsianTV
+ip-cidr,101.227.0.0/16,AsianTV
+ip-cidr,101.224.0.0/13,AsianTV
+ip-cidr,119.176.0.0/12,AsianTV
+
+# > letv
+host-suffix,api.mob.app.letv.com,AsianTV
+
+# > MOO
+user-age,MOO*,AsianTV
+user-age,TencentMidasConnect*,AsianTV
+
+# > Tencent Video
+host-suffix,v.smtcdns.com,AsianTV
+host-suffix,vv.video.qq.com,AsianTV
+
+# > Youku
+ip-cidr,106.11.0.0/16,AsianTV
