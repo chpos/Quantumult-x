@@ -1,5 +1,5 @@
 # > PayPal
-user-age,PayPal*,PayPal
+user-agent,PayPal*,PayPal
 host-keyword,paypal,PayPal
 host-suffix,paypal.com,PayPal
 host-suffix,paypalobjects.com,PayPal
