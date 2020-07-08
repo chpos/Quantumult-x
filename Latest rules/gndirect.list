@@ -7,7 +7,7 @@ host,safebrowsing.googleapis.com,DIRECT
 host-suffix,dl.google.com,DIRECT
 
 # > Steam
-user-age,Steam*,DIRECT
+user-agent,Steam*,DIRECT
 host-suffix,pinyuncloud.com,DIRECT
 host-suffix,steamcontent.com,DIRECT
 
@@ -17,8 +17,7 @@ host-suffix,windows.net,DIRECT
 host-suffix,windowsupdate.com,DIRECT
 
 # > Xunlei
-# - PROCESS-NAME,Thunder,DIRECT
-user-age,%E8%BF%85%E9%9B%B7,DIRECT
+user-agent,%E8%BF%85%E9%9B%B7,DIRECT
 host-suffix,xunlei.com,DIRECT
 
 # > Private Tracker
