@@ -3,7 +3,7 @@ host-suffix,edgedatg.com,GlobalTV
 host-suffix,go.com,GlobalTV
 
 # > Abema TV
-# - USER-AGENT,AbemaTV*,GlobalTV
+user-age,AbemaTV*,GlobalTV
 host-suffix,abema.io,GlobalTV
 host-suffix,abema.tv,GlobalTV
 host-suffix,akamaized.net,GlobalTV
@@ -11,8 +11,8 @@ host-suffix,ameba.jp,GlobalTV
 host-suffix,hayabusa.io,GlobalTV
 
 # > Amazon Prime Video
-# - USER-AGENT,InstantVideo.US*,GlobalTV
-# - USER-AGENT,Prime%20Video*,GlobalTV
+user-age,InstantVideo.US*,GlobalTV
+user-age,Prime%20Video*,GlobalTV
 host-suffix,aiv-cdn.net,GlobalTV
 host-suffix,amazonaws.co.uk,GlobalTV
 host-suffix,amazonaws.com,GlobalTV
@@ -20,16 +20,16 @@ host-suffix,amazonvideo.com,GlobalTV
 host-suffix,llnwd.net,GlobalTV
 
 # > Apple News and Apple Map TOMTOM Version
-# - USER-AGENT,AppleNews*,GlobalTV
-# - USER-AGENT,com.apple.news*,GlobalTV
-# host,gspe1-ssl.ls.apple.com,GlobalTV
-# - USER-AGENT,News*,GlobalTV
-# host,apple.comscoreresearch.com,GlobalTV
-# host,gateway.icloud.com,GlobalTV
-# host,news-client.apple.com,GlobalTV
-# host,news-edge.apple.com,GlobalTV
-# host,news-events.apple.com,GlobalTV
-# host-suffix,apple.news,GlobalTV
+user-age,AppleNews*,GlobalTV
+user-age,com.apple.news*,GlobalTV
+host,gspe1-ssl.ls.apple.com,GlobalTV
+user-age,News*,GlobalTV
+host,apple.comscoreresearch.com,GlobalTV
+host,gateway.icloud.com,GlobalTV
+host,news-client.apple.com,GlobalTV
+host,news-edge.apple.com,GlobalTV
+host,news-events.apple.com,GlobalTV
+host-suffix,apple.news,GlobalTV
 
 # > Apple TV
 host,np-edge.itunes.apple.com,GlobalTV
@@ -37,13 +37,13 @@ host,play-edge.itunes.apple.com,GlobalTV
 host-suffix,tv.apple.com,GlobalTV
 
 # > Bahamut
-# - USER-AGENT,Anime*,GlobalTV
+user-age,Anime*,GlobalTV
 host-suffix,bahamut.com.tw,GlobalTV
 host-suffix,gamer.com.tw,GlobalTV
 host-suffix,hinet.net,GlobalTV
 
 # > BBC iPlayer
-# - USER-AGENT,BBCiPlayer*,GlobalTV
+user-age,BBCiPlayer*,GlobalTV
 host-keyword,bbcfmt,GlobalTV
 host,aod-dash-uk-live.akamaized.net,GlobalTV
 host,aod-hls-uk-live.akamaized.net,GlobalTV
@@ -65,7 +65,7 @@ host-suffix,indazn.com,GlobalTV
 host-suffix,intercom.io,GlobalTV
 
 # > Disney Plus
-# - USER-AGENT,Disney*,GlobalTV
+user-age,Disney*,GlobalTV
 host,cdn.registerdisney.go.com,GlobalTV
 host,cdn.cdn.unid.go.com,GlobalTV
 host-suffix,bamgrid.com,GlobalTV
@@ -78,25 +78,25 @@ host-suffix,dssott.com,GlobalTV
 host-suffix,execute-api.us-east-1.amazonaws.com,GlobalTV
 
 # > encoreTVB
-# - USER-AGENT,encoreTVB*,GlobalTV
+user-age,encoreTVB*,GlobalTV
 host-suffix,encoretvb.com,GlobalTV
 host,content.jwplatform.com,GlobalTV
 host,videos-f.jwpsrv.com,GlobalTV
 
 # > Fox Now
-# - USER-AGENT,FOX%20NOW*,GlobalTV
+user-age,FOX%20NOW*,GlobalTV
 host-suffix,fox.com,GlobalTV
 host-suffix,foxdcg.com,GlobalTV
 host-suffix,uplynk.com,GlobalTV
 
 # > Fox+ (HK|TW|SG)
-# - USER-AGENT,FOXPlus*,GlobalTV
+user-age,FOXPlus*,GlobalTV
 host-suffix,akamaized.net,GlobalTV
 host-suffix,foxplus.com,GlobalTV
 host-suffix,theplatform.com,GlobalTV
 
 # > HBO NOW & HBO GO
-# - USER-AGENT,HBO%20NOW*,GlobalTV
+user-age,HBO%20NOW*,GlobalTV
 host-suffix,execute-api.ap-southeast-1.amazonaws.com,GlobalTV
 host-suffix,hbo.com,GlobalTV
 host-suffix,hboasia.com,GlobalTV
@@ -128,8 +128,8 @@ host-suffix,japronx.net,GlobalTV
 host-suffix,japronx.vip,GlobalTV
 
 # > JOOX
-# - USER-AGENT,WeMusic*,GlobalTV
-# - USER-AGENT,JOOX*,GlobalTV
+user-age,WeMusic*,GlobalTV
+user-age,JOOX*,GlobalTV
 host-suffix,joox.com,GlobalTV
 
 # > KKBOX
@@ -138,19 +138,19 @@ host-suffix,kkbox.com.tw,GlobalTV
 host-suffix,kfs.io,GlobalTV
 
 # > KKTV
-# - USER-AGENT,KKTV*,GlobalTV
-# - USER-AGENT,com.kktv*,GlobalTV
+user-age,KKTV*,GlobalTV
+user-age,com.kktv*,GlobalTV
 host-suffix,kktv.me,GlobalTV
 host-suffix,kktv.com.tw,GlobalTV
 host,kktv-theater.kk.stream,GlobalTV
 
 # > Line TV
-# - USER-AGENT,LINE*,GlobalTV
+user-age,LINE*,GlobalTV
 host-suffix,d3c7rimkq79yfu.cloudfront.net,GlobalTV
 host-suffix,linetv.tw,GlobalTV
 
 # > myTV_SUPER
-# - USER-AGENT,mytv*,GlobalTV
+user-age,mytv*,GlobalTV
 host-suffix,mytvsuper.com,GlobalTV
 host-suffix,tvb.com,GlobalTV
 
@@ -158,7 +158,7 @@ host-suffix,tvb.com,GlobalTV
 host-suffix,pandora.com,GlobalTV
 
 # > PBS
-# - USER-AGENT,PBS*,GlobalTV
+user-age,PBS*,GlobalTV
 host-suffix,pbs.org,GlobalTV
 
 # > Pornhub
@@ -168,12 +168,12 @@ host-suffix,pornhub.com,GlobalTV
 host-suffix,pornhubpremium.com,GlobalTV
 
 # > SoundCloud
-# - USER-AGENT,SoundCloud*,GlobalTV
+user-age,SoundCloud*,GlobalTV
 host-suffix,sndcdn.com,GlobalTV
 host-suffix,soundcloud.com,GlobalTV
 
 # > ViuTV
-# - USER-AGENT,ViuTV*,GlobalTV
+user-age,ViuTV*,GlobalTV
 host-suffix,bootstrapcdn.com,GlobalTV
 host-suffix,cloudfront.net,GlobalTV
 host-suffix,cognito-identity.us-east-1.amazonaws.com,GlobalTV
