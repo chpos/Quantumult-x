@@ -1,4 +1,4 @@
 # > Speedtest by Ookla
-user-age,SpeedTest*
+user-agent,SpeedTest*
 host-keyword,speedtest,Speedtest
 host-suffix,ooklaserver.net,Speedtest
