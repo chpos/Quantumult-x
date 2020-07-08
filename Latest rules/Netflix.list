@@ -1,5 +1,5 @@
 # > Netflix
-# - USER-AGENT,Argo*,Netflix
+user-age,Argo*,Netflix
 host,netflix.com.edgesuite.net,Netflix
 host-SUFFIX,netflix.com,Netflix
 host-SUFFIX,netflix.net,Netflix
