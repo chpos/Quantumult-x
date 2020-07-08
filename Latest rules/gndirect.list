@@ -1,0 +1,53 @@
+# > Dler Cloud
+host-suffix,dler.cloud,DIRECT
+
+# > Google
+host-keyword,mtalk.google.com,DIRECT
+host,safebrowsing.googleapis.com,DIRECT
+host-suffix,dl.google.com,DIRECT
+
+# > Steam
+user-age,Steam*,DIRECT
+host-suffix,pinyuncloud.com,DIRECT
+host-suffix,steamcontent.com,DIRECT
+
+# > Windows
+host-suffix,windows.com,DIRECT
+host-suffix,windows.net,DIRECT
+host-suffix,windowsupdate.com,DIRECT
+
+# > Xunlei
+# - PROCESS-NAME,Thunder,DIRECT
+user-age,%E8%BF%85%E9%9B%B7,DIRECT
+host-suffix,xunlei.com,DIRECT
+
+# > Private Tracker
+host-suffix,awesome-hd.me,DIRECT
+host-suffix,broadcasthe.net,DIRECT
+host-suffix,chdbits.co,DIRECT
+host-suffix,classix-unlimited.co.uk,DIRECT
+host-suffix,empornium.me,DIRECT
+host-suffix,gazellegames.net,DIRECT
+host-suffix,hdchina.org,DIRECT
+host-suffix,hdsky.me,DIRECT
+host-suffix,icetorrent.org,DIRECT
+host-suffix,jpopsuki.eu,DIRECT
+host-suffix,keepfrds.com,DIRECT
+host-suffix,madsrevolution.net,DIRECT
+host-suffix,m-team.cc,DIRECT
+host-suffix,nanyangpt.com,DIRECT
+host-suffix,ncore.cc,DIRECT
+host-suffix,open.cd,DIRECT
+host-suffix,ourbits.club,DIRECT
+host-suffix,passthepopcorn.me,DIRECT
+host-suffix,privatehd.to,DIRECT
+host-suffix,redacted.ch,DIRECT
+host-suffix,springsunday.net,DIRECT
+host-suffix,tjupt.org,DIRECT
+host-suffix,totheglory.im,DIRECT
+
+# > Accelerate direct sites
+host-keyword,announce,DIRECT
+host-keyword,torrent,DIRECT
+host-keyword,tracker,DIRECT
+host-suffix,smtp,DIRECT
