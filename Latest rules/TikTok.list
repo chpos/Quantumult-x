@@ -1,0 +1,7 @@
+# > TikTok
+user-age,TikTok*,TikTok
+host-suffix,muscdn.com,TikTok
+host-suffix,musical.ly,TikTok
+host-suffix,tiktokv.com,TikTok
+host-suffix,tiktokcdn.com,TikTok
+host-keyword,-tiktokcdn-com,TikTok
