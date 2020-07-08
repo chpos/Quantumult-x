@@ -1,6 +1,6 @@
 # > Bilibili
-user-age,bili*,AsianTV
-user-age,Bilibili*,AsianTV
+user-agent,bili*,AsianTV
+user-agent,Bilibili*,AsianTV
 host-suffix,acg.tv,AsianTV
 host-suffix,acgvideo.com,AsianTV
 host-suffix,b23.tv,AsianTV
@@ -25,8 +25,8 @@ ip-cidr,119.176.0.0/12,AsianTV
 host-suffix,api.mob.app.letv.com,AsianTV
 
 # > MOO
-user-age,MOO*,AsianTV
-user-age,TencentMidasConnect*,AsianTV
+user-agent,MOO*,AsianTV
+user-agent,TencentMidasConnect*,AsianTV
 
 # > Tencent Video
 host-suffix,v.smtcdns.com,AsianTV
