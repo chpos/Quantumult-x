@@ -712,6 +712,16 @@ ip-cidr,74.119.76.0/22,Proxy
 ip-cidr,173.194.0.0/16,Proxy
 ip-cidr,74.125.0.0/16,Proxy
 
+# > Twitter
+host-suffix, pscp.tv, Proxy
+host-suffix, periscope.tv, Proxy
+host-suffix, t.co, Proxy
+host-suffix, twimg.co, Proxy
+host-suffix, twimg.com, Proxy
+host-suffix, twitpic.com, Proxy
+host-suffix, vine.co, Proxy
+host-keyword, twitter, Proxy
+
 # > Kakao Talk
 ip-cidr,1.201.0.0/24,Proxy
 ip-cidr,103.246.56.0/22,Proxy
@@ -746,3 +756,5 @@ ip-cidr,74.86.0.0/16,Proxy
 ip-cidr,75.126.0.0/16,Proxy
 ip-cidr,174.37.0.0/16,Proxy
 ip-cidr,208.43.0.0/16,Proxy
+
+host-keyword,mtalk.google.com,Proxy
