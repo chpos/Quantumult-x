@@ -1,6 +1,6 @@
 # > Youtube
-user-age,*youtube*,Youtube
-user-age,YouTube*,Youtube
+user-agent,*youtube*,Youtube
+user-agent,YouTube*,Youtube
 host-keyword,youtube,Youtube
 host,yt3.ggpht.com,Youtube
 host-suffix,googlevideo.com,Youtube
@@ -8,5 +8,5 @@ host-suffix,gvt2.com,Youtube
 host-suffix,youtu.be,Youtube
 host-suffix,ytimg.com,Youtube
 # > Youtube Music
-user-age,*YouTubeMusic*,Youtube
-user-age,*com.google.ios.youtubemusic*,Youtube
+user-agent,*YouTubeMusic*,Youtube
+user-agent,*com.google.ios.youtubemusic*,Youtube
