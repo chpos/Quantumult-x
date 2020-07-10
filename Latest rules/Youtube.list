@@ -1,12 +1,6 @@
-# > Youtube
-user-agent,*youtube*,Youtube
-user-agent,YouTube*,Youtube
-host-keyword,youtube,Youtube
-host,yt3.ggpht.com,Youtube
-host-suffix,googlevideo.com,Youtube
-host-suffix,gvt2.com,Youtube
-host-suffix,youtu.be,Youtube
-host-suffix,ytimg.com,Youtube
-# > Youtube Music
-user-agent,*YouTubeMusic*,Youtube
-user-agent,*com.google.ios.youtubemusic*,Youtube
+# > YouTube
+user-agent, com.google.ios.youtube*, Youtube
+user-agent, YouTube*, Youtube
+host-suffix, googlevideo.com, Youtube
+host-suffix, youtube.com, Youtube
+host, youtubei.googleapis.com, Youtube
