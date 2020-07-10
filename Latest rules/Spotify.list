@@ -1,5 +1,5 @@
 # > Spotify
-user-agent,*Spotify*,Spotify
+user-agent,Spotify*,Spotify
 host-suffix,pscdn.co,Spotify
 host-suffix,scdn.co,Spotify
 host-suffix,spoti.fi,Spotify
