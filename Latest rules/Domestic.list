@@ -25,6 +25,21 @@ ip6-cidr,2a0b:b582::/48,Domestic
 ip6-cidr,2a0b:b583::/48,Domestic
 
 # > Tencent
+user-agent, MicroMessenger%20Client, Domestic
+user-agent, WeChat*, Domestic
+user-agent, %E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*, Domestic
+host-suffix, gtimg.com, Domestic
+host-suffix, idqqimg.com, Domestic
+host-suffix, igamecj.com, Domestic
+host-suffix, myapp.com, Domestic
+host-suffix, myqcloud.com, Domestic
+host-suffix, qq.com, Domestic
+host-suffix, qqmail.com, Domestic
+host-suffix, servicewechat.com, Domestic
+host-suffix, tencent.com, Domestic
+host-suffix, tencent-cloud.net, Domestic
+host-suffix, tenpay.com, Domestic
+host, file-igamecj.akamaized.net, Domestic
 ip-cidr,182.254.116.0/24,Domestic
 
 host-suffix,12306.cn,Domestic
