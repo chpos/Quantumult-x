@@ -756,5 +756,3 @@ ip-cidr,74.86.0.0/16,Proxy
 ip-cidr,75.126.0.0/16,Proxy
 ip-cidr,174.37.0.0/16,Proxy
 ip-cidr,208.43.0.0/16,Proxy
-
-host-keyword,mtalk.google.com,Proxy
