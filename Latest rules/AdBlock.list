@@ -160,13 +160,13 @@ host-suffix,webp2p.letv.com,AdBlock
 host-suffix,zamplus.com,AdBlock
 
 # > Youtube
-host-suffix,azabu-u.ac.jp,AdBlock
-host-suffix,couchcoaster.jp,AdBlock
-host-suffix,delivery.dmkt-sp.jp,AdBlock
-host-suffix,ehg-youtube.hitbox.com,AdBlock
-host-suffix,m-78.jp,AdBlock
-host-suffix,nichibenren.or.jp,AdBlock
-host-suffix,nicorette.co.kr,AdBlock
+#host-suffix,azabu-u.ac.jp,AdBlock
+#host-suffix,couchcoaster.jp,AdBlock
+#host-suffix,delivery.dmkt-sp.jp,AdBlock
+#host-suffix,ehg-youtube.hitbox.com,AdBlock
+#host-suffix,m-78.jp,AdBlock
+#host-suffix,nichibenren.or.jp,AdBlock
+#host-suffix,nicorette.co.kr,AdBlock
 
 # > Sohu
 host-suffix,adnet.sohu.com,AdBlock
@@ -316,7 +316,6 @@ host-suffix,025suyu.com,AdBlock
 host-suffix,0313413.com,AdBlock
 host-suffix,0451106.com,AdBlock
 host-suffix,0531kt.com,AdBlock
-host-suffix,0592weixin.com,AdBlock
 host-suffix,0594003.com,AdBlock
 host-suffix,06362.com,AdBlock
 host-suffix,0756sjlm.com.cn,AdBlock
@@ -691,7 +690,6 @@ host-suffix,8le8le.com,AdBlock
 host-suffix,8mfty.com,AdBlock
 host-suffix,8ox.cn,AdBlock
 host-suffix,90053999.com,AdBlock
-host-suffix,910weixin.com,AdBlock
 host-suffix,911.cc,AdBlock
 host-suffix,915.com,AdBlock
 host-suffix,91ad.bestvogue.com,AdBlock
@@ -3220,7 +3218,6 @@ host-suffix,e.vbaiu.com,AdBlock
 host-suffix,e.vouky.com,AdBlock
 host-suffix,e.vvocm.com,AdBlock
 host-suffix,e.wcjup.com,AdBlock
-host-suffix,e.weixingshexiangji.net,AdBlock
 host-suffix,e.wikigifth.com,AdBlock
 host-suffix,e.wjhehaofc.com,AdBlock
 host-suffix,e.wkjhd.com,AdBlock
@@ -5177,7 +5174,6 @@ host-suffix,m.vpon.com,AdBlock
 host-suffix,m.vsxet.com,AdBlock
 host-suffix,m.wcjup.com,AdBlock
 host-suffix,m.weboser.com,AdBlock
-host-suffix,m.weixingshexiangji.net,AdBlock
 host-suffix,m.wervp.com,AdBlock
 host-suffix,m.wgewj.cn,AdBlock
 host-suffix,m.wikigifth.com,AdBlock
@@ -7632,8 +7628,6 @@ host-suffix,weiguizhizuo.com,AdBlock
 host-suffix,weiqiqu.cn,AdBlock
 host-suffix,weishi.baidu.com,AdBlock
 host-suffix,weixiangzu.cn,AdBlock
-host-suffix,weixin.renrenying.com,AdBlock
-host-suffix,weixinvip.ren,AdBlock
 host-suffix,weld.iefsf.com,AdBlock
 host-suffix,weld.uunice.com,AdBlock
 host-suffix,weld830.uunice.com,AdBlock
