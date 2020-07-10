@@ -29,7 +29,6 @@ user-agent,MOO*,AsianTV
 user-agent,TencentMidasConnect*,AsianTV
 
 # > Tencent Video
-host-suffix,v.smtcdns.com,AsianTV
 host-suffix,vv.video.qq.com,AsianTV
 
 # > Youku
