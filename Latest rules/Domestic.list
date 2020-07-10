@@ -111,6 +111,7 @@ host-suffix,geetest.com,Domestic
 host-suffix,godic.net,Domestic
 host-suffix,goodread.com,Domestic
 host-suffix,google.cn,Domestic
+host, mtalk.google.com, Domestic
 host-suffix,gtimg.com,Domestic
 host-suffix,haibian.com,Domestic
 host-suffix,hao123.com,Domestic
@@ -270,7 +271,6 @@ host-suffix,zhihu.com,Domestic
 host-suffix,zhimg.com,Domestic
 host-suffix,zimuzu.tv,Domestic
 host-suffix,zmz002.com,Domestic
-
 ip-cidr,1.255.62.0/24,Domestic
 # >  CN
 host-suffix,cn,Domestic
