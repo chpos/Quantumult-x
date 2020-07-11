@@ -287,5 +287,55 @@ host-suffix,zhimg.com,Domestic
 host-suffix,zimuzu.tv,Domestic
 host-suffix,zmz002.com,Domestic
 ip-cidr,1.255.62.0/24,Domestic
+
+# > Google
+host,safebrowsing.googleapis.com,Domestic
+host-suffix,dl.google.com,Domestic
+
+# > Steam
+user-agent,Steam*,Domestic
+host-suffix,pinyuncloud.com,Domestic
+host-suffix,steamcontent.com,Domestic
+
+# > Windows
+host-suffix,windows.com,Domestic
+host-suffix,windows.net,Domestic
+host-suffix,windowsupdate.com,Domestic
+
+# > Xunlei
+user-agent,%E8%BF%85%E9%9B%B7,Domestic
+host-suffix,xunlei.com,Domestic
+
+# > Private Tracker
+host-suffix,awesome-hd.me,Domestic
+host-suffix,broadcasthe.net,Domestic
+host-suffix,chdbits.co,Domestic
+host-suffix,classix-unlimited.co.uk,Domestic
+host-suffix,empornium.me,Domestic
+host-suffix,gazellegames.net,Domestic
+host-suffix,hdchina.org,Domestic
+host-suffix,hdsky.me,Domestic
+host-suffix,icetorrent.org,Domestic
+host-suffix,jpopsuki.eu,Domestic
+host-suffix,keepfrds.com,Domestic
+host-suffix,madsrevolution.net,Domestic
+host-suffix,m-team.cc,Domestic
+host-suffix,nanyangpt.com,Domestic
+host-suffix,ncore.cc,Domestic
+host-suffix,open.cd,Domestic
+host-suffix,ourbits.club,Domestic
+host-suffix,passthepopcorn.me,Domestic
+host-suffix,privatehd.to,Domestic
+host-suffix,redacted.ch,Domestic
+host-suffix,springsunday.net,Domestic
+host-suffix,tjupt.org,Domestic
+host-suffix,totheglory.im,Domestic
+
+# > Accelerate Domestic sites
+host-keyword,announce,Domestic
+host-keyword,torrent,Domestic
+host-keyword,tracker,Domestic
+host-suffix,smtp,Domestic
+
 # >  CN
 host-suffix,cn,Domestic
